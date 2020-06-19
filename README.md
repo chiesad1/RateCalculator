@@ -1,1 +1,3 @@
 # RateCalculator
+
+Calculator for rates
